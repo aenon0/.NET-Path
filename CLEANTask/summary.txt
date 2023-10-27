@@ -1,0 +1,8 @@
+Clean Architecture is a prominent architectural paradigm that distinguishes itself among various architectural approaches.
+This methodology boasts several benefits, such as enhanced modularity, scalability, and testability, among others. However,
+it is not devoid of drawbacks, including a potentially steep learning curve and increased complexity. When delving into the
+implementation of Clean Architecture in C#, a prudent starting point involves the delineation of subfolders, namely "api,"
+"Core," "Infrastructure," and "Ui." Within the "Core" subfolder, two vital projects find their place: "application" and 
+"domain." The "domain" project centers around entities and encompasses the essence of the system, while the "application"
+project acts as the conduit for exposing the domain, facilitating seamless interaction between external applications and the
+domain layer, all while ensuring the autonomy of the domain layer remains intact.

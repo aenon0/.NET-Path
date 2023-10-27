@@ -1,0 +1,21 @@
+[
+
+    {
+        "RollNumber": 10,
+        "Name": "Mr.X",
+        "Age": 9,
+        "Grade": "A"
+    },
+    {
+        "RollNumber": 11,
+        "Name": "Mr.Y",
+        "Age": 12,
+        "Grade": "A+"
+    },
+    {
+        "RollNumber": 12,
+        "Name": "Mr.Z",
+        "Age": 10,
+        "Grade": "B"
+    }
+]
